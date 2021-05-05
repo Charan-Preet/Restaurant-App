@@ -1,6 +1,7 @@
 import React from 'react'
 import { useStoreState, useStoreActions } from 'easy-peasy'
 import { Link, useHistory } from "react-router-dom"
+import "./restaurantlistStyle.css"
 
 export default function Restaurant() {
     const restaurantlist = useStoreState(state => state.order.restaurantlist)
@@ -34,10 +35,10 @@ export default function Restaurant() {
             <div>
                {navbar()}
 
-                <div>
+                <div className='list'>
                     {restaurantlist[restaurantlist.length - 1].map((item, idx) => (
                         <ul>
-                            <button onClick={() => orderPage(item)} > {item[0]}</button><br />
+                            <button className='btn' onClick={() => orderPage(item)} > {item[0]}</button><br />
                             <p>Restaurant Timing: {item[1]}</p>
                             <p>Off Days: {item[2]}</p>
                             <hr />

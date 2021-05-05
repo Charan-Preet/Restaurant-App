@@ -1,0 +1,11 @@
+.list {
+  margin-right: 20px;
+}
+
+.btn {
+    width:40%
+}
+
+.btn:hover {
+    transform: scale(1.07);
+}
