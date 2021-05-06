@@ -10,7 +10,7 @@
 7. Also inside `client` directory `npm start`
 
 ## How it works :
-- Fetching data from backend using `reast api` using `axios` from `http:\\localhost:5000` and look's like this:
+- Fetching data from backend using `rest api` using `axios` from `http:\\localhost:5000` and look's like this:
 [![data.png](https://i.postimg.cc/J4szvxtP/data.png)](https://postimg.cc/VdcwbjqC)
 
 - **Site frontpage**:
