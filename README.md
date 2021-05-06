@@ -11,7 +11,6 @@
 
 ## How it works :
 - Fetching data from backend using `reast api` using `axios` from `http:\\localhost:5000` and look's like this:
-- 
 [![data.png](https://i.postimg.cc/J4szvxtP/data.png)](https://postimg.cc/VdcwbjqC)
 
 - **Site frontpage**:
