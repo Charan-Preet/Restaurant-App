@@ -15,7 +15,6 @@
 [![data.png](https://i.postimg.cc/J4szvxtP/data.png)](https://postimg.cc/VdcwbjqC)
 
 - **Site frontpage**:
-- 
 [![Screenshot-2021-05-05-React-App.png](https://i.postimg.cc/wTnjpNmH/Screenshot-2021-05-05-React-App.png)](https://postimg.cc/vcLs7chS)
 
 -Restaurant page usign `Search()` function listing the list of restaurant according to data and time selected by the user in the frontpage:
