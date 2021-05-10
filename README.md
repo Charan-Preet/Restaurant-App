@@ -11,6 +11,7 @@
 
 ## How it works :
 - Fetching data from backend using `rest api` using `axios` from `http:\\localhost:5000\data` and look's like this:
+- 
 [![data.png](https://i.postimg.cc/J4szvxtP/data.png)](https://postimg.cc/VdcwbjqC)
 
 - **Site frontpage**:
@@ -24,6 +25,6 @@
 
 [![Screenshot-2021-05-05-React-App-2.png](https://i.postimg.cc/25DjqfGK/Screenshot-2021-05-05-React-App-2.png)](https://postimg.cc/K10hVwdP)
 
--Previous Order Page:
+-Previous Order Page- As the name suggest it stores the previous order created by the user: 
 
 [![Screenshot-2021-05-05-React-App-3.png](https://i.postimg.cc/Sx8NNK69/Screenshot-2021-05-05-React-App-3.png)](https://postimg.cc/5X4Msbk9)
