@@ -9,6 +9,15 @@
 6. `npm i` inside `client` directory
 7. Also inside `client` directory `npm start`
 
+## More about this project:
+### I created this project as a part of interview process assignment and the assignment goes like this:
+- The attached [.csv](https://github.com/Charan-Preet/Restaurant-App/blob/master/backend/data.csv) file contains a list of data to create a food ordering application. The requirements of the product is as follows:
+- As a user, I am able to search for available/open restaurants by time and dates via a search function.
+- As a user, I am able to click into the restaurant and see the set meal that they are selling with price and currency and make orders from there.
+- As a user, I am able to see my past orders.
+- You’re required to use `React.js` to develop the frontend and `Node.js` for the backend. 
+- You’re also required to use a proper database to store your data and write a migration script to migrate data from [.csv](https://github.com/Charan-Preet/Restaurant-App/blob/master/backend/data.csv) file into your database.
+
 ## How it works :
 - Fetching data from backend using `rest api` using `axios` from `http:\\localhost:5000\data` and look's like this:
 
